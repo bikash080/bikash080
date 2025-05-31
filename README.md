@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @bikash080
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bikash080/bikash080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 Japan Based
+🎥 Vlogs | 📸 Photos | 🌐 Web Dev
+📦 Building cool stuff & capturing vibes
+👇 New video + project 👇
+🌟 | 500K+ on TikTok
